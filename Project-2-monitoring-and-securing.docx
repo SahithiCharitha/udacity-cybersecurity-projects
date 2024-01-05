@@ -1,1 +1,3 @@
+I employed Nessus to run a vulnerability scan against my log server and analyzed the results. I summarized the findings and considered the key vulnerabilities that had been exploited in other companies. Assessing our assets and current mitigating controls, I confirmed whether the threat could be relevant to our company. I then made a recommendation for the order in which the findings should be addressed and outlined the required actions.
 
+Next, I conducted an abbreviated penetration test against our user accounts. I accessed the provided list of password hashes from our company and attempted to crack my own user's passwords using HashCat.
